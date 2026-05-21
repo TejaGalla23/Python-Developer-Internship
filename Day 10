@@ -1,0 +1,5 @@
+## Day 10 Progress
+- Implemented Add Task feature
+- Implemented View Task feature
+- Added basic CLI menu
+- Connected tasks.txt for storage
