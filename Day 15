@@ -1,0 +1,20 @@
+Topics Covered
+Introduction to Flask
+Backend development basics
+Flask routing
+APIs and server workflow
+Python backend architecture
+Learning Resources
+Flask Tutorial:
+https://youtu.be/Z1RJmh_OqeA
+Work Done
+Installed Flask
+Created first Flask application
+Learned routing using @app.route()
+Understood server-client workflow
+Explored API basics
+Skills Learned
+Flask framework basics
+Backend workflow understanding
+Routing concepts
+API structure basics
