@@ -1,0 +1,16 @@
+Topics Covered :
+Continued project implementation
+Added View, Update, and Delete functionality
+Improved task management logic
+Added error handling and validations
+Work Done :-
+Implemented View Tasks feature
+Added Update Task functionality
+Added Delete Task functionality
+Improved user interaction messages
+Handled invalid menu selections
+Skills Learned:-
+CRUD operations in Python
+File read/write handling
+Conditional statements
+Exception handling basics
