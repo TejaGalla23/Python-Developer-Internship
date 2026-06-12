@@ -1,0 +1,18 @@
+Today I continued developing the CLI To-Do List application by adding advanced task management features.
+
+Tasks Completed
+Implemented Update Task functionality.
+Implemented Delete Task functionality.
+Added task completion status tracking.
+Connected task data storage using a text file.
+Improved user input validation and error handling.
+Challenges Faced
+Handling invalid user inputs without crashing the application.
+Updating specific tasks from the stored task list.
+Learning Outcome
+
+I gained practical experience with file handling, data manipulation, and CRUD operations (Create, Read, Update, Delete).
+
+Next Plan
+Test all functionalities thoroughly.
+Improve code readability and application flow.
