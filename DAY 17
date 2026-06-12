@@ -1,0 +1,24 @@
+
+Today I started working on the core functionality of my CLI To-Do List application using Python.
+
+### Tasks Completed
+
+* Created the project structure and organized files.
+* Developed the main menu-driven interface.
+* Implemented the "Add Task" feature to allow users to create new tasks.
+* Implemented the "View Tasks" feature to display all saved tasks.
+* Practiced Python functions, loops, and conditional statements while building the application.
+
+### Challenges Faced
+
+* Understanding how to continuously display the menu until the user exits.
+* Managing task data efficiently.
+
+### Learning Outcome
+
+Today helped me understand how real-world CLI applications interact with users and how Python functions can be used to organize code effectively.
+
+### Next Plan
+
+* Implement Update Task and Delete Task functionality.
+* Add task status management.
