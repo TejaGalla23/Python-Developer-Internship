@@ -1,0 +1,83 @@
+
+
+### Tasks Completed
+
+* Performed complete testing of Add, View, Update, and Delete functionalities.
+* Fixed minor bugs identified during testing.
+* Improved CLI menu navigation and user experience.
+* Updated project documentation and README file.
+* Organized repository structure and commit history.
+
+### Challenges Faced
+
+* Testing different user scenarios and exception cases.
+* Ensuring data persistence after multiple operations.
+
+### Learning Outcome
+
+Learned software testing basics, debugging techniques, and documentation best practices.
+
+### Git Commit
+
+fix: resolved bugs and updated project documentation
+
+---
+
+# Day 26 – Weekend Practice
+
+### Practice Activities
+
+* Practiced Python functions and modules.
+* Solved basic problem-solving exercises.
+* Reviewed file handling concepts.
+* Practiced GitHub commit and push workflow.
+
+### Learning Outcome
+
+Strengthened Python fundamentals and improved confidence in writing reusable code.
+
+---
+
+# Day 27 – Weekend Practice
+
+### Practice Activities
+
+* Practiced CRUD operation logic separately.
+* Reviewed MongoDB concepts including collections and documents.
+* Explored Django project structure and backend workflow.
+* Read about REST APIs and backend communication.
+
+### Learning Outcome
+
+Developed a clearer understanding of backend technologies and database workflows.
+
+---
+
+# Day 28 – Doubt Session & Project Review
+
+### Activities Performed
+
+* Reviewed project implementation progress.
+* Verified GitHub repository structure.
+* Checked project documentation completeness.
+* Revisited concepts related to file handling and CRUD operations.
+* Prepared questions related to backend development concepts.
+
+### Learning Outcome
+
+Improved understanding of project organization and professional development workflows.
+
+---
+
+# Day 29 – Project Monitoring & Doubt Resolution
+
+### Activities Performed
+
+* Re-tested project functionalities.
+* Reviewed GitHub commits and repository updates.
+* Addressed implementation-related doubts.
+* Studied best practices for project maintenance and version control.
+
+### Learning Outcome
+
+Learned the importance of consistent updates, project tracking, and collaborative development practices.
